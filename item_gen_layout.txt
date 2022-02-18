@@ -1,0 +1,3 @@
+name, minimum for a month, maximum for a month, random element (a percentage), Identification number for item 
+# i removed total for the year and will let the random distribuiton for a month
+# determine how much is ordered

@@ -1,6 +1,6 @@
-toilet paper, 10, 20, 25
-paper towel, 15, 25, 10
-cleaner, 2, 5, 30
-plastic bags, 100, 250, 15
-light bulbs, 15, 20, 25
-box cutters, 20, 50, 20
+toilet paper, 10, 20, 25, 0001
+paper towel, 15, 25, 10, 0002
+cleaner, 2, 5, 30, 0003
+plastic bags, 100, 250, 15, 004
+light bulbs, 15, 20, 25, 005
+box cutters, 20, 50, 20, 006
