@@ -4,3 +4,11 @@ cleaner, 2, 5, 30, 0003
 plastic bags, 100, 250, 15, 004
 light bulbs, 15, 20, 25, 005
 box cutters, 20, 50, 20, 006
+office chair, 2, 5, 40, 007
+pens, 50, 75, 30, 008
+printer paper, 6, 12, 50, 009
+blank badges, 100, 200, 35, 010
+scanner batt, 5, 10, 25, 011
+meat trays, 300, 500, 30, 012
+produce bags, 20, 30, 15, 013
+soap, 15, 20, 60, 014
