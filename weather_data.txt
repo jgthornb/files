@@ -1,0 +1,2 @@
+weather data gathered from 
+https://www.wunderground.com/history/monthly/us/ar/bentonville/KXNA/date/2021-1
