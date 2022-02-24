@@ -1,3 +1,6 @@
-name, minimum for a month, maximum for a month, random element (a percentage), Identification number for item 
+name, minimum for a month, maximum for a month, random element (a percentage), Identification number for item, initial stock value 
 # i removed total for the year and will let the random distribuiton for a month
 # determine how much is ordered
+https://www.smartosc.com/insights/shopping-sales-holiday-calendar-2021
+got holiday data from here. did not highlight all events in january. i think that was only for e-buying.
+

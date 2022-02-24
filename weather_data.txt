@@ -1,2 +1,7 @@
 weather data gathered from 
 https://www.wunderground.com/history/monthly/us/ar/bentonville/KXNA/date/2021-1
+** things that i would change. 
+get real customer activity data. this could be in the form of transactions from a store
+another thing is the actvitiy of weekends. The values are somewhat arbitrary, but that is do to lack of data. 
+https://howmuchwillitsnow.com/in/fayetteville/ar
+snow data gathered from here
