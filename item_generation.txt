@@ -12,3 +12,9 @@ scanner batt, 5, 10, 25, 011, 105
 meat trays, 300, 500, 30, 012, 5600
 produce bags, 20, 30, 15, 013, 350
 soap, 15, 20, 60, 014, 245
+wrenches, 2, 4, 30, 0015, 42
+water bottles, 50, 200, 15, 0016, 1750
+keyboards, 5, 7, 80, 0017, 84
+photo paper, 500, 1000, 20, 0018, 10500
+plastic wrap, 20, 40, 50, 0019, 420
+
