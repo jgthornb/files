@@ -17,4 +17,3 @@ water bottles, 50, 200, 15, 0016, 1750
 keyboards, 5, 7, 80, 0017, 84
 photo paper, 500, 1000, 20, 0018, 10500
 plastic wrap, 20, 40, 50, 0019, 420
-
