@@ -4,3 +4,5 @@ name, minimum for a month, maximum for a month, random element (a percentage), I
 https://www.smartosc.com/insights/shopping-sales-holiday-calendar-2021
 got holiday data from here. did not highlight all events in january. i think that was only for e-buying.
 
+This is where i got info for merging xls
+https://www.geeksforgeeks.org/how-to-merge-multiple-excel-files-into-a-single-files-with-python/
